@@ -1,0 +1,1 @@
+When a flag is saved, it is saved to the jar directory.
